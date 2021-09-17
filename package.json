@@ -1,0 +1,23 @@
+{
+  "name": "team_generator",
+  "version": "1.0.0",
+  "description": "Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mgrigbootcamp/Team-Generator.git"
+  },
+  "author": "Matt Griggs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgrigbootcamp/Team-Generator/issues"
+  },
+  "homepage": "https://github.com/mgrigbootcamp/Team-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "jest": "^27.1.0"
+  }
+}
